@@ -1,4 +1,4 @@
-Welcome to the OFFICIAL readme for hello world.
+Welcome to the OFFICIAL readme for "hello world."
 
 CONTENTS:
 1. Introduction
@@ -7,10 +7,10 @@ CONTENTS:
 
 
 Introduction:
-  Hello World
+  Hello World...
 
 Usage:
-  Hello World
+  Hello World.
 
 Conclusion:
-  Hello World
+  Hello World!
