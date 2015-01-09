@@ -1,7 +1,16 @@
-# hello-world
-Test repo
-This is a test for Github. This honestly doesn't need an explanation, but okay...
+Welcome to the OFFICIAL readme for hello world.
 
-This is hello world.
+CONTENTS:
+1. Introduction
+2. Usage
+3. Conclusion
 
-That is all.
+
+Introduction:
+  Hello World
+
+Usage:
+  Hello World
+
+Conclusion:
+  Hello World
